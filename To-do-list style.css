@@ -1,0 +1,5 @@
+/* Add your CSS for the To-Do app here */
+body { font-family: Arial, sans-serif; }
+#todo-list { list-style-type: none; padding: 0; }
+#todo-list li { padding: 8px; border-bottom: 1px solid #ddd; }
+#todo-list button { float: right; }
